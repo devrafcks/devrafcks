@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante Front e Back-end<br>👯 Procurando estagio e experiência <br>🌱 Fazendo etec 2/3<br>💬 Conte comigo para tudo<br>⚡ Buscando sempre o melhor de mim mesmo.
+🔭 Estudante Front e Back-end<br>👯 Procurando estagio e experiência <br>🌱 Fazendo etec informátoca para internet 2/3<br>💬 Conte comigo para tudo<br>⚡ Buscando sempre o melhor de mim mesmo.
 
 
 ## 🌐 Socials:
