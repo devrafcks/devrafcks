@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante Fullstack<br>👯 Procurando estagio e experiência <br>🌱 Fazendo etec informática para internet 3/3<br>💬 Conte comigo para tudo<br>⚡ Buscando sempre o melhor de mim mesmo.
+🔭 Estudante Fullstack <br>🌱 Fazendo etec informática para internet 3/3<br>💬 Conte comigo para tudo<br>⚡ Buscando sempre o melhor de mim mesmo.
 
 
 ## 🌐 Socials:
