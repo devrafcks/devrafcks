@@ -2,10 +2,8 @@
 
 # 👋 Olá! Seja bem-vindo ao meu GitHub!
 
-🔭 **Sou um estudante Fullstack** cursando o **3º ano de Informática para Internet na ETEC**.  
-🌱 **Apaixonado por aprendizado contínuo**, estou sempre explorando novas tecnologias para crescer como desenvolvedor e criar projetos cada vez melhores.  
-⚡ **Meu objetivo:** Superar meus limites todos os dias, buscando sempre o melhor de mim mesmo.
-
+🔭 **Sou um estudante Fullstack** cursando o 3º ano de Informática para Internet na ETEC.  
+🌱 **Apaixonado por aprendizado contínuo**, estou sempre explorando novas tecnologias para crescer como desenvolvedor.  
 ---
 
 ## 🌐 Redes Sociais
