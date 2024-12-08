@@ -1,9 +1,10 @@
 <div align="center">
 
-# 👋 Olá! Seja bem-vindo ao meu GitHub!
+# 👋 Seja bem-vindo ao meu GitHub!
 
 🔭 **Sou um estudante Fullstack** cursando o 3º ano de Informática para Internet na ETEC.  
 🌱 **Apaixonado por aprendizado contínuo**, estou sempre explorando novas tecnologias para crescer como desenvolvedor.  
+
 ---
 
 ## 🌐 Redes Sociais
