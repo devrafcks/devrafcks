@@ -1,5 +1,5 @@
 
-## Olá! Seja bem-vindo ao meu GitHub!<br><br>🔭 Sou um estudante Fullstack<br>Atualmente, estou cursando o 3º ano de Informática para Internet na ETEC.<br><br>🌱 Estou explorando constantemente novas tecnologias e conceitos para crescer como desenvolvedor e criar projetos cada vez melhores.<br><br>⚡Meu objetivo é superar meus limites todos os dias, buscando sempre o melhor de mim mesmo.<br>
+## Olá! Seja bem-vindo ao meu GitHub!<br><br>🔭 Sou um estudante Fullstack, estou cursando o 3º ano de Informática para Internet na ETEC.<br><br>🌱 Estou explorando constantemente novas tecnologias e conceitos para crescer como desenvolvedor e criar projetos cada vez melhores.<br><br>⚡Meu objetivo é superar meus limites todos os dias, buscando sempre o melhor de mim mesmo.<br>
 
 
 ## 🌐 Socials:
