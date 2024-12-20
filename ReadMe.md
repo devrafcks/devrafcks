@@ -2,14 +2,12 @@
 
 # 👋 Seja bem-vindo ao meu GitHub!
 
-🔭 **Sou um estudante Fullstack** cursando o 3º ano de Informática para Internet na ETEC.  
-🌱 **Apaixonado por aprendizado contínuo**, estou sempre explorando novas tecnologias para crescer como desenvolvedor.  
+🔭 **Sou um estudante Fullstack** cursando o 3º ano de Informática para Internet na ETEC. 
 
 ---
 
 ## 🌐 Redes Sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafaxsz.log) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-henrique-blanco-0455b12a6/)
 
 ---
