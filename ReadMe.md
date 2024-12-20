@@ -36,7 +36,7 @@
 ## 🏆 GitHub Stats
 <div style="display: flex; justify-content: space-between; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devrafcks&theme=gotham&hide_border=true" alt="GitHub Streak Stats" style="max-width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafcks&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="max-width: 48%;">
+  <img width=45%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafcks&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="max-width: 48%;">
 </div>
 
 ### 🗣️ Entre em contato
