@@ -34,10 +34,10 @@
 </div>
 
 ## 🏆 GitHub Stats
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devrafcks&theme=gotham&hide_border=true" alt="GitHub Streak Stats" style="max-width: 48%;">
-  <img width=45%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafcks&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="max-width: 48%;">
-</div>
+
+  <![](https://github-readme-streak-stats.herokuapp.com/?user=devrafcks&theme=gotham&hide_border=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafcks&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### 🗣️ Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&size=large)](https://www.linkedin.com/in/rafael-henrique-blanco-0455b12a6/)
