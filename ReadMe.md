@@ -1,4 +1,4 @@
-![Banner](/githubBanner.png) 
+<img src="/githubBanner.png" alt="Banner" height="100%">
 
 ## 📋 Sobre Mim
 - 🎓 Estudante Fullstack cursando o 3º ano de Informática para Internet na ETEC.
