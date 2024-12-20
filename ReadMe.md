@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHBH-xVIWX0hw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733345988797?e=1740009600&v=beta&t=vfwrB9PFAoJ2Po486gRQ6chDvNJTiHxT0TuSWxO8Nz4) <!-- Adicionando imagem do banner -->
+![Banner](/github_Banner.png) 
 
 ## 📋 Sobre Mim
 - 🎓 Estudante Fullstack cursando o 3º ano de Informática para Internet na ETEC.
