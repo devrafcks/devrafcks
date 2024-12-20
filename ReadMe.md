@@ -1,4 +1,4 @@
-![Banner](/github_Banner.png) 
+![Banner](/githubBanner.png) 
 
 ## 📋 Sobre Mim
 - 🎓 Estudante Fullstack cursando o 3º ano de Informática para Internet na ETEC.
