@@ -1,5 +1,10 @@
 <img src="/githubBanner.png" alt="Banner" height="100%">
 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&pause=120&color=3C7ED7&center=true&vCenter=true&width=455&lines=Hello,+world!;Hello,+Github!" alt="Typing SVG" />
+</div>
+
 ## 📋 Sobre Mim
 - 🎓 Estudante Fullstack cursando o 3º ano de Informática para Internet na ETEC.
 - 🚀 Especialização: Engenheiro Front-End e Node.js pela EBAC.
@@ -19,7 +24,6 @@
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&size=large" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&size=large" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&size=large" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&size=large" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&size=large" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&size=large" />
@@ -33,13 +37,21 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&size=large" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&size=large" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&size=large" />
+  <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&size=large" />
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white&size=large" />
+</div>
+
+### ⚙️ Ferramentas e Frameworks
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&size=large" />
+  <img src="https://img.shields.io/badge/gulp.js-CF4647?style=for-the-badge&logo=gulp&logoColor=white&size=large" />
+  <img src="https://img.shields.io/badge/less-1D365D?style=for-the-badge&logo=less&logoColor=white&size=large" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white&size=large" />
 </div>
 
 ## 🏆 GitHub Stats
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=devrafcks&theme=gotham&hide_border=true)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafcks&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 
 ### 🚩 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&size=large)](https://www.linkedin.com/in/rafael-henrique-blanco-0455b12a6/)
