@@ -1,3 +1,7 @@
+<div align="right" style="font-size: 0.9em; color: gray;">
+  <img src="https://komarev.com/ghpvc/?username=devrafcks&color=blue&style=for-the-badge" alt="Profile Views Counter" />
+</div>
+
 <img src="/githubBanner.png" alt="Banner" height="100%">
 
 <div align="center">
