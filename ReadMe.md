@@ -51,9 +51,28 @@
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white&size=large" />
 </div>
 
+
+
+### 🌍 Plataformas
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black&size=large" />
+  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white&size=large" />
+</div
+  
+---
+
 ## 🏆 GitHub Stats
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafcks&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafcks&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=devrafcks&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devrafcks&theme=gotham" alt="Productive Time" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devrafcks&theme=gotham" alt="Summary Stats" />
+
+---
+
 
 ### 🚩 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&size=large)](https://www.linkedin.com/in/rafael-henrique-blanco-0455b12a6/)
@@ -61,5 +80,3 @@
 [![LinkBio](https://img.shields.io/badge/LinkBio-%239B59B6.svg?logo=linktree&logoColor=white&style=for-the-badge&size=large)](https://link.bio/seulinkbio)
 
 </div>
-
----
