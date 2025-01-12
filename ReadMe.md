@@ -46,6 +46,7 @@
 ### ⚙️ Ferramentas e Frameworks
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&size=large" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&size=large" />
   <img src="https://img.shields.io/badge/gulp.js-CF4647?style=for-the-badge&logo=gulp&logoColor=white&size=large" />
   <img src="https://img.shields.io/badge/less-1D365D?style=for-the-badge&logo=less&logoColor=white&size=large" />
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white&size=large" />
