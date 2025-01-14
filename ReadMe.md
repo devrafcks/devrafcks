@@ -66,13 +66,13 @@
 
 ## 🏆 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafcks&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devrafcks&theme=gotham" alt="Most used languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=devrafcks&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devrafcks&theme=gotham" alt="Github Stats" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devrafcks&theme=gotham" alt="Productive Time" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devrafcks&theme=gotham" width="688" alt="Activity Graph" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devrafcks&theme=gotham" alt="Summary Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devrafcks&theme=gotham" width="688" alt="Profile Details" />
 
 <img src="https://raw.githubusercontent.com/devrafcks/devrafcks/output/snake.svg" alt="Snake animation" />
 
