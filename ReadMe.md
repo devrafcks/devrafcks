@@ -41,11 +41,13 @@
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&size=large" />
   <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&size=large" />
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white&size=large" />
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&size=large" />
 </div>
 
 ### ⚙️ Ferramentas e Frameworks
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&size=large" />
+  <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white&size=large" />
   <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&size=large" />
   <img src="https://img.shields.io/badge/gulp.js-CF4647?style=for-the-badge&logo=gulp&logoColor=white&size=large" />
   <img src="https://img.shields.io/badge/less-1D365D?style=for-the-badge&logo=less&logoColor=white&size=large" />
