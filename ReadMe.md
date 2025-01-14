@@ -74,6 +74,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devrafcks&theme=gotham" alt="Summary Stats" />
 
+<img src="https://raw.githubusercontent.com/devrafcks/devrafcks/output/snake.svg" alt="Snake animation" />
+
 ---
 
 
@@ -83,7 +85,3 @@
 [![LinkBio](https://img.shields.io/badge/LinkBio-%239B59B6.svg?logo=linktree&logoColor=white&style=for-the-badge&size=large)](https://link.bio/seulinkbio)
 
 </div>
-
-<img src="https://raw.githubusercontent.com/devrafcks/devrafcks/output/snake.svg" alt="Snake animation" />
-
-
