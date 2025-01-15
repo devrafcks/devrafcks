@@ -8,11 +8,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&pause=120&color=3C7ED7&center=true&vCenter=true&width=455&lines=Hello,+world!;Hello,+Github!" alt="Typing SVG" />
 </div>
 
+
 ## 📋 Sobre Mim
 - 🎓 Estudante Fullstack cursando o 3º ano de Informática para Internet na ETEC.
 - 🚀 Especialização: Engenheiro Front-End e Node.js pela EBAC.
 - 🎯 Objetivo: Me tornar um desenvolvedor Fullstack completo.
 
+> *"Os sonhos das pessoas não têm fim." – Marshall D. Teach*
 <div align="center">
 
 ---
@@ -83,5 +85,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&size=large)](https://www.linkedin.com/in/rafael-henrique-blanco-0455b12a6/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge&size=large)](mailto:rafcksps@gmail.com)
 [![LinkBio](https://img.shields.io/badge/LinkBio-%239B59B6.svg?logo=linktree&logoColor=white&style=for-the-badge&size=large)](https://link.bio/seulinkbio)
+
 
 </div>
