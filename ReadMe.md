@@ -80,7 +80,7 @@
 ### 🚩 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&size=large)](https://www.linkedin.com/in/rafael-henrique-blanco-0455b12a6/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge&size=large)](mailto:rafcksps@gmail.com)
-[![LinkBio](https://img.shields.io/badge/LinkBio-%239B59B6.svg?logo=linktree&logoColor=white&style=for-the-badge&size=large)](https://devrafcks.github.io/Linkbio/)
+[![LinkBio](https://img.shields.io/badge/LinkBio-%2394BF62.svg?logo=spotify&logoColor=white&style=for-the-badge&size=large)](https://devrafcks.github.io/Linkbio/)
 
 
 </div>
