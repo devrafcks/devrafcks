@@ -18,7 +18,6 @@
 <div align="center">
 
 ---
-
 ### 🎨 Design & Prototipagem
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&size=large" />
@@ -54,14 +53,12 @@
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white&size=large" />
 </div>
 
-
-
 ### 🌍 Plataformas
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black&size=large" />
-  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white&size=large" />
-</div
-  
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black&size=large" />
+<img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white&size=large" />
+
+
 ---
 
 ## 🏆 GitHub Stats
