@@ -9,10 +9,17 @@
 </div>
 
 
-## 📋 Sobre Mim
-- 🎓 Estudante Fullstack cursando o 3º ano de Informática para Internet na ETEC.
-- 🚀 Especialização: Engenheiro Front-End e Node.js pela EBAC.
-- 🎯 Objetivo: Me tornar um desenvolvedor Fullstack completo.
+## 📋 Sobre Mim  
+
+- 🎓 **Estudante Fullstack**: Atualmente cursando o 3º ano de Informática para Internet na ETEC.  
+- 🚀 **Estudando Atualmente:**  
+  - **Engenheiro Front-End e Node.js (EBAC):** Formação completa em desenvolvimento front-end e back-end com foco em JavaScript, React, e Node.js.  
+  - **FullStack PRO (Sujeito Programador):** Treinamento prático cobrindo HTML, CSS, JavaScript, React JS, TypeScript, e desenvolvimento Fullstack.  
+  - **Bootcamp NTT DATA Diversidade em Tech (DIO):** Foco em front-end com Angular, AWS e outras tecnologias, promovendo inclusão no mercado de tecnologia.  
+  - **Universo Photoshop (Brainstorm Academy):** Curso completo para criação de artes, banners, animações e manipulação de imagens.  
+  - **Figma (EBAC):** Desenvolvimento de interfaces e prototipagem interativa.   
+
+- 🎯 **Objetivo:** Me tornar um desenvolvedor Fullstack completo.  
 
 > *"Os sonhos das pessoas não têm fim." – Marshall D. Teach*
 <div align="center">
