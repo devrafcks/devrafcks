@@ -9,7 +9,7 @@
 </div>
 
 
-## 📋 Sobre Mim  
+## Sobre Mim  
 
 - 🎓 **Estudante Fullstack**: Cursando o 3º ano de Informática para Internet na ETEC.  
 - 🚀 **Estudando Atualmente:**  
