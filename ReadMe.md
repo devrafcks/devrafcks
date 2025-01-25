@@ -11,7 +11,7 @@
 
 ## 📋 Sobre Mim  
 
-- 🎓 **Estudante Fullstack**: Atualmente cursando o 3º ano de Informática para Internet na ETEC.  
+- 🎓 **Estudante Fullstack**: Cursando o 3º ano de Informática para Internet na ETEC.  
 - 🚀 **Estudando Atualmente:**  
   - **Engenheiro Front-End e Node.js (EBAC):** Formação completa em desenvolvimento front-end e back-end com foco em JavaScript, React, e Node.js.  
   - **FullStack PRO (Sujeito Programador):** Treinamento prático cobrindo HTML, CSS, JavaScript, React JS, TypeScript, e desenvolvimento Fullstack.  
