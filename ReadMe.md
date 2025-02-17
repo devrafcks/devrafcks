@@ -13,11 +13,11 @@
 
 - 🎓 **Estudante Fullstack**: Cursando o 3º ano de Informática para Internet na ETEC.  
 - 🚀 **Estudando Atualmente:**  
-  - **Engenheiro Front-End e Node.js (EBAC):** Formação completa em desenvolvimento front-end e back-end com foco em JavaScript, React, e Node.js.  
-  - **FullStack PRO (Sujeito Programador):** Treinamento prático cobrindo HTML, CSS, JavaScript, React JS, TypeScript, e desenvolvimento Fullstack.  
-  - **Bootcamp NTT DATA Diversidade em Tech (DIO):** Foco em front-end com Angular, AWS e outras tecnologias, promovendo inclusão no mercado de tecnologia.  
-  - **Universo Photoshop (Brainstorm Academy):** Curso completo para criação de artes, banners, animações e manipulação de imagens.  
-  - **Figma (EBAC):** Desenvolvimento de interfaces e prototipagem interativa.   
+  - **Engenheiro Front-End e Node.js (EBAC)**  
+  - **FullStack PRO (Sujeito Programador)**  
+  - **Bootcamp NTT DATA Diversidade em Tech (DIO)**  
+  - **Universo Photoshop (Brainstorm Academy)**  
+  - **Figma (EBAC)**   
 
 - 🎯 **Objetivo:** Me tornar um desenvolvedor Fullstack completo.  
 
@@ -25,6 +25,7 @@
 <div align="center">
 
 ---
+
 ### 🎨 Design & Prototipagem
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&size=large)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&size=large)
@@ -35,8 +36,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&size=large)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&size=large)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&size=large)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&size=large)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&size=large)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 🛠️ Back-End
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&size=large)
@@ -60,7 +62,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white&size=large)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
 ---
 
 ## 🏆 GitHub Stats
@@ -77,11 +78,9 @@
 
 ---
 
-
 ### 🚩 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&size=large)](https://www.linkedin.com/in/rafael-henrique-blanco-0455b12a6/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge&size=large)](mailto:rafcksps@gmail.com)
 [![LinkBio](https://img.shields.io/badge/LinkBio-%2394BF62.svg?logo=spotify&logoColor=white&style=for-the-badge&size=large)](https://devrafcks.github.io/Linkbio/)
-
 
 </div>
