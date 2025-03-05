@@ -17,7 +17,6 @@
   - **FullStack PRO (Sujeito Programador)**  
   - **Bootcamp NTT DATA Diversidade em Tech (DIO)**  
   - **Universo Photoshop (Brainstorm Academy)**  
-  - **Figma (EBAC)**   
 
 - 🎯 **Objetivo:** Me tornar um desenvolvedor Fullstack completo.  
 
