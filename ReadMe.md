@@ -14,8 +14,7 @@
 - 🎓 **Estudante Fullstack**: Cursando o 3º ano de Informática para Internet na ETEC.  
 - 🚀 **Estudando Atualmente:**  
   - **Engenheiro Front-End e Node.js (EBAC)**  
-  - **FullStack PRO (Sujeito Programador)**  
-  - **Bootcamp NTT DATA Diversidade em Tech (DIO)**  
+  - **FullStack PRO (Sujeito Programador)**   
   - **Universo Photoshop (Brainstorm Academy)**  
 
 - 🎯 **Objetivo:** Me tornar um desenvolvedor Fullstack completo.  
