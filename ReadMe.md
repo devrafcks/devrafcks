@@ -1,8 +1,9 @@
 <div align="right" style="font-size: 0.9em; color: gray;">
   <img src="https://komarev.com/ghpvc/?username=devrafcks&color=blue&style=for-the-badge" alt="Profile Views Counter" />
 </div>
+<img src="https://github.com/devrafcks/devrafcks/blob/main/githubBanner.png" alt="Banner" width="100%">
 
-<img src="/githubBanner.png" alt="Banner" height="100%">
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&pause=120&color=3C7ED7&center=true&vCenter=true&width=455&lines=Hello,+world!;Hello,+Github!" alt="Typing SVG" />
