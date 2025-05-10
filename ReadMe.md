@@ -73,7 +73,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devrafcks&theme=gotham" width="688" alt="Activity Graph" />
 
-<img src="https://raw.githubusercontent.com/devrafcks/devrafcks/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/devrafcks/devrafcks/output/snake.svg?palette=github-dark" alt="Snake animation" />
 
 ---
 
