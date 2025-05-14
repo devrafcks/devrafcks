@@ -2,7 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=devrafcks&color=blue&style=for-the-badge" alt="Profile Views Counter" />
 </div>
 
-<img src="https://raw.githubusercontent.com/devrafcks/devrafcks/main/githubBanner.png?version=1" alt="Banner" width="100%">
+![image](https://github.com/user-attachments/assets/595f4cb8-0528-4276-a9f0-49ee67c98a1e)
+
 
 
 <p align="center">
