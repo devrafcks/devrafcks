@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&pause=120&color=3C7ED7&center=true&vCenter=true&width=455&lines=Hello,+world!;Hello,+Github!" alt="Typing SVG" />
 </p>
 
-<h2>👨‍💻 About Me</h2>
+<h2> About Me</h2>
 
 <p>
   🎓 <strong>Fullstack Student</strong> in my 3rd year of <strong>Internet Informatics</strong> at ETEC.
@@ -17,7 +17,7 @@
 </p>
 
 <ul>
-  <li>🚀 <strong>Currently Learning:</strong>
+  <li> <strong>Currently Learning:</strong>
     <ul>
       <li> Front-End and Node.js Engineer (EBAC)</li>
       <li> FullStack PRO (Sujeito Programador)</li>
@@ -35,14 +35,14 @@
 
 ## 💻 My Stack
 
-### 🎨 Design & Prototyping
+###  Design & Prototyping
 <p>
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### 🌐 Front-End
+###  Front-End
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-### 🛠️ Back-End
+###  Back-End
 <p>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### ⚙️ Tools & Frameworks
+###  Tools & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### 🌍 Platforms
+### Platforms
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -83,7 +83,7 @@
   <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
-### ✨ Other Skills
+### Other Skills
 <p>
   <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
