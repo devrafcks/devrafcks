@@ -13,7 +13,6 @@
 
 <p>
   🎓 <strong>Fullstack Student</strong> in my 3rd year of <strong>Internet Informatics</strong> at ETEC.
-
 </p>
 
 <ul>
@@ -29,7 +28,6 @@
 <blockquote>
   <p><em>“People's dreams never end.” – Marshall D. Teach</em></p>
 </blockquote>
-
 
 ---
 
@@ -115,5 +113,9 @@
 <a href="https://devrafcks.github.io/Linkbio/">
   <img src="https://img.shields.io/badge/LinkBio-%2394BF62.svg?logo=spotify&logoColor=white&style=for-the-badge" />
 </a>
+<a href="https://rafaelblanco.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfólio-0A192F?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 
 </div>
