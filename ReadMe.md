@@ -111,8 +111,9 @@
   <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" />
 </a>
 <a href="https://devrafcks.github.io/Linkbio/">
-  <img src="https://img.shields.io/badge/LinkBio-%2394BF62.svg?logo=spotify&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LinkBio-%2368A44C.svg?logo=spotify&logoColor=white&style=for-the-badge" />
 </a>
+
 <a href="https://rafaelblanco.vercel.app/">
   <img src="https://img.shields.io/badge/Portfólio-0A192F?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
