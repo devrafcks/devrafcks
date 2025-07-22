@@ -20,7 +20,6 @@
     <ul>
       <li> Front-End and Node.js Engineer (EBAC)</li>
       <li> FullStack PRO (Sujeito Programador)</li>
-      <li> Photoshop Universe (Brainstorm Academy)</li>
     </ul>
   </li>
 </ul>
