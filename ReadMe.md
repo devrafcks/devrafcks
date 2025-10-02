@@ -100,8 +100,8 @@
 </p>
 
 <div align="center" >
-  
-![GitHub Activity Graph](https://ssr-contributions-svg.vercel.app/_/devrafcks?chart=3dbar&gap=0.6&scale=1.5&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue)
+
+![GitHub Activity Graph](https://ssr-contributions-svg.vercel.app/_/devrafcks?chart=3dbar&gap=0.6&scale=1.5&flatten=2&animation=wave&animation_duration=4&animation_delay=0.15&animation_amplitude=10&animation_frequency=0.3&animation_wave_center=10_0&format=svg&weeks=30&theme=green)
 
 </div>
 
