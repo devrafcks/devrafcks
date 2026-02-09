@@ -1,31 +1,32 @@
-
-
-
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=devrafcks&color=blue&style=for-the-badge" alt="Profile Views Counter" />
 </div>
 
-![image](https://github.com/user-attachments/assets/595f4cb8-0528-4276-a9f0-49ee67c98a1e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/595f4cb8-0528-4276-a9f0-49ee67c98a1e" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&pause=120&color=3C7ED7&center=true&vCenter=true&width=455&lines=Hello,+world!;Hello,+Github!" alt="Typing SVG" />
 </p>
 
-<h2> About Me</h2>
+##  🎓  Computer Science Student</strong> | <strong>Front-End Engineer</strong> | <strong>Fullstack Developer
+
+<img align="right" src="https://github.com/devrafcks/devrafcks/blob/main/luffy.gif?raw=true" width="220">
 
 <p>
-  🎓 <strong>Computer Science Student</strong> | <strong>Front-End Engineer</strong> | <strong>Fullstack Developer</strong>
-</p>
+ 
+
 <p>
   I hold a technical degree in <strong>Internet Informatics</strong> from ETEC and I am currently pursuing a Bachelor's in <strong>Computer Science</strong>.
 </p>
-
 
 <blockquote>
   <p><em>“People's dreams never end.” – Marshall D. Teach</em></p>
 </blockquote>
 
----
+<br clear="right">
+<br>
 
 ## 💻 My Stack
 
@@ -119,5 +120,7 @@
 <a href="https://rafaelblanco.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3C7ED7&height=120&section=footer" width="100%"/>
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3C7ED7&height=150&section=footer" width="100%"/>
 </div>
