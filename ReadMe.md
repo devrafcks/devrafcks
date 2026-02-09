@@ -1,12 +1,7 @@
-<video 
-  src=".luffy.mp4" 
-  height="235" 
-  width="236" 
-  autoplay 
-  loop 
-  muted 
-  playsinline
-></video>
+<p align="center">
+  <video src="luffy.mp4" width="236" height="235" autoplay loop muted playsinline></video>
+</p>
+
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=devrafcks&color=blue&style=for-the-badge" alt="Profile Views Counter" />
