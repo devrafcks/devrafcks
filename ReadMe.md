@@ -1,7 +1,7 @@
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=devrafcks&color=blue&style=for-the-badge" alt="Profile Views Counter" />
 </div>
-
 
 ![image](https://github.com/user-attachments/assets/595f4cb8-0528-4276-a9f0-49ee67c98a1e)
 
@@ -12,17 +12,12 @@
 <h2> About Me</h2>
 
 <p>
-  🎓 <strong>Fullstack Student</strong> in my 3rd year of <strong>Internet Informatics</strong> at ETEC.
+  🎓 <strong>Computer Science Student</strong> | <strong>Front-End Engineer</strong> | <strong>Fullstack Developer</strong>
+</p>
+<p>
+  I hold a technical degree in <strong>Internet Informatics</strong> from ETEC and I am currently pursuing a Bachelor's in <strong>Computer Science</strong>.
 </p>
 
-<ul>
-  <li> <strong>Currently Learning:</strong>
-    <ul>
-      <li> Front-End and Node.js Engineer (EBAC)</li>
-      <li> FullStack PRO (Sujeito Programador)</li>
-    </ul>
-  </li>
-</ul>
 
 <blockquote>
   <p><em>“People's dreams never end.” – Marshall D. Teach</em></p>
@@ -32,14 +27,14 @@
 
 ## 💻 My Stack
 
-###  Design & Prototyping
+### Design & Prototyping
 <p>
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-###  Front-End
+### Front-End
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -50,34 +45,44 @@
   <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-###  Back-End
+### Back-End
 <p>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-###  Tools & Frameworks
+### Payment Gateways
+<p>
+  <img src="https://img.shields.io/badge/Mercado%20Pago-%23009EE3.svg?style=for-the-badge&logo=mercadolibre&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asaas-%23003057.svg?style=for-the-badge&logo=bank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Abacate%20Pay-%234CAF50.svg?style=for-the-badge&logo=icloud&logoColor=white" />
+</p>
+
+### Tools & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-%23CB2029.svg?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### Platforms
+### Platforms & Hosting
 <p>
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoDaddy-%231BDBAD.svg?style=for-the-badge&logo=godaddy&logoColor=black" />
+  <img src="https://img.shields.io/badge/HostGator-%23FFD200.svg?style=for-the-badge&logo=hostgator&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ### Other Skills
@@ -87,7 +92,6 @@
   <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
----
 <div align="center">
 
 ## 🏆 GitHub Stats
@@ -97,13 +101,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devrafcks&theme=gotham" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devrafcks&theme=gotham" width="688" />
 </p>
-
-<div align="center" >
-
-![GitHub Activity Graph](https://ssr-contributions-svg.vercel.app/_/devrafcks?chart=3dbar&gap=0.6&scale=1.5&flatten=2&animation=wave&animation_duration=4&animation_delay=0.15&animation_amplitude=10&animation_frequency=0.3&animation_wave_center=10_0&format=svg&weeks=30&theme=green)
-
-</div>
-
 
 ## 🚩 Get in Touch
 
@@ -118,8 +115,7 @@
 </a>
 
 <a href="https://rafaelblanco.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfólio-0A192F?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3C7ED7&height=120&section=footer" width="100%"/>
 </div>
