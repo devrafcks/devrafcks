@@ -1,6 +1,4 @@
-<p align="center">
-  <video src="luffy.mp4" width="236" height="235" autoplay loop muted playsinline></video>
-</p>
+
 
 
 <div align="right">
