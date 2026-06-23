@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&pause=120&color=3C7ED7&center=true&vCenter=true&width=455&lines=Hello,+world!;Hello,+Github!" alt="Typing SVG" />
 </p>
 
-##  🎓  Computer Science Student</strong> | <strong>Front-End Engineer</strong> | <strong>Fullstack Developer
+##  🎓 Software Engineer Student</strong> | <strong>AI, SaaS & Cloud</strong> | <strong>Fullstack Developer
 
 <img align="right" src="https://github.com/devrafcks/devrafcks/blob/main/luffy.gif?raw=true" width="220">
 
@@ -18,7 +18,7 @@
  
 
 <p>
-  I hold a technical degree in <strong>Internet Informatics</strong> from ETEC and I am currently pursuing a Bachelor's in <strong>Computer Science</strong>.
+  I hold a technical degree in <strong>Internet Informatics</strong> from ETEC and I am currently pursuing a Bachelor's in <strong>Software Engineer</strong>.
 </p>
 
 <blockquote>
@@ -31,13 +31,15 @@
 ## 💻 My Stack
 
 ### Design & Prototyping
+
 <p>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-000000.svg?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-### Front-End
+### Front-End & Mobile
+
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -46,66 +48,87 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
-### Back-End
+### Back-End & Databases
+
 <p>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-404D59.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+### AI & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-412991.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-111111.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostHog-000000.svg?style=for-the-badge&logo=posthog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB.svg?style=for-the-badge&logo=googletagmanager&logoColor=white" />
 </p>
 
 ### Payment Gateways
+
 <p>
   <img src="https://img.shields.io/badge/Mercado%20Pago-%23009EE3.svg?style=for-the-badge&logo=mercadolibre&logoColor=white" />
-  <img src="https://img.shields.io/badge/Asaas-%23003057.svg?style=for-the-badge&logo=bank&logoColor=white" />
-  <img src="https://img.shields.io/badge/Abacate%20Pay-%234CAF50.svg?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asaas-%23003057.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Abacate%20Pay-%234CAF50.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/K8%20Pay-0052CC.svg?style=for-the-badge&logoColor=white" />
 </p>
 
-### Tools & Frameworks
+### DevOps & Infrastructure
+
 <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coolify-000000.svg?style=for-the-badge&logo=coolify&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-%23CB2029.svg?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
+
+### Testing & Quality
+
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
 ### Platforms & Hosting
+
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoDaddy-%231BDBAD.svg?style=for-the-badge&logo=godaddy&logoColor=black" />
-  <img src="https://img.shields.io/badge/HostGator-%23FFD200.svg?style=for-the-badge&logo=hostgator&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Coolify-000000.svg?style=for-the-badge&logo=coolify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoDaddy-1BDBAD.svg?style=for-the-badge&logo=godaddy&logoColor=black" />
+  <img src="https://img.shields.io/badge/HostGator-FFD200.svg?style=for-the-badge&logo=hostgator&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ### Other Skills
+
 <p>
-  <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-<div align="center">
-
 ## 🏆 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devrafcks&theme=gotham" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devrafcks&theme=gotham" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devrafcks&theme=gotham" width="688" />
 </p>
-
-## 🚩 Get in Touch
 
 <a href="https://www.linkedin.com/in/rafael-henrique-blanco-0455b12a6/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
