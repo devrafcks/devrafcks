@@ -122,13 +122,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-## 🏆 GitHub Stats
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devrafcks&theme=gotham" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devrafcks&theme=gotham" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devrafcks&theme=gotham" width="688" />
-</p>
+## Contact
 
 <a href="https://www.linkedin.com/in/rafael-henrique-blanco-0455b12a6/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
