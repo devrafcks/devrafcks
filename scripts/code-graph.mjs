@@ -1,6 +1,5 @@
-// Generates the "contributions compiler": the contribution graph as 0s and 1s,
-// with a compile scan line sweeping across it.
-// GitHub Actions usage: node scripts/code-graph.mjs  (needs GITHUB_TOKEN and GH_USER)
+// Generates the profile SVGs (contribution log and stats cards) from the GitHub GraphQL API.
+// Usage: node scripts/code-graph.mjs (needs GITHUB_TOKEN and GH_USER). Preview with sample data: --demo
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const THEMES = {
@@ -33,7 +32,7 @@ export function streakInfo(weeks) {
   let cur = 0;
   for (let i = days.length - 1; i >= 0; i--) {
     if (days[i].contributionCount > 0) cur++;
-    else if (i === days.length - 1) continue; // today may still be empty
+    else if (i === days.length - 1) continue;
     else break;
   }
   const byDay = Array(7).fill(0);
@@ -66,7 +65,6 @@ export function render(weeks, total, user, t) {
     });
   });
 
-  // straw hat marking "today"
   const lastWeek = weeks[nW - 1], today = lastWeek.contributionDays[lastWeek.contributionDays.length - 1];
   const tx = X0 + (nW - 1) * CELL, ty = Y0 + today.weekday * CELL;
   const HAT = ["..YYY..", ".YYYYY.", ".RRRRR.", "YYYYYYY"];
@@ -102,7 +100,6 @@ ${hat}
 }
 
 
-// ---------------- CARDS (stats, languages, projects) ----------------
 function frame(W, H, title, t) {
   return `<rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="12" fill="${t.bg}" stroke="${t.border}" stroke-width="2"/>
 <path d="M1 13 a12 12 0 0 1 12 -12 H${W - 13} a12 12 0 0 1 12 12 V38 H1Z" fill="${t.panel}"/>
@@ -173,27 +170,8 @@ export function langsCard(langs, t) {
 <clipPath id="bc"><rect x="20" y="78" width="${BW}" height="10" rx="5"/></clipPath><g clip-path="url(#bc)">${bar}</g>${legend}</svg>`;
 }
 
-function wrap(text, max) {
-  const words = text.split(/\s+/); const lines = []; let cur = "";
-  for (const w of words) { if ((cur + " " + w).trim().length > max) { lines.push(cur.trim()); cur = w; } else cur += " " + w; }
-  if (cur.trim()) lines.push(cur.trim());
-  return lines.slice(0, 2).map((l, i, a) => (i === 1 && lines.length > 2 ? l.slice(0, max - 1) + "…" : l));
-}
-export function repoCard(r, t) {
-  const W = 440, H = 150;
-  const desc = wrap(r.description || "// add a description to this repository", 52);
-  const lang = r.primaryLanguage;
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">${CSS(t)}${frame(W, H, "~/projects", t)}
-<text x="20" y="66" style="font-size:15px;font-weight:700"><tspan fill="${t.muted}">./</tspan><tspan fill="${t.accent}">${esc2(r.name)}</tspan></text>
-${desc.map((d, i) => `<text x="20" y="${92 + i * 18}" style="font-size:12px;fill:${r.description ? t.text : t.muted}">${esc2(d)}</text>`).join("")}
-${lang ? `<circle cx="25" cy="${H - 20}" r="5" fill="${lang.color || t.muted}"/><text x="36" y="${H - 16}" style="font-size:12px;fill:${t.muted}">${esc2(lang.name)}</text>` : ""}
-<text x="${W - 20}" y="${H - 16}" text-anchor="end" style="font-size:12px;fill:${t.muted}">★ ${r.stargazerCount}   ⑂ ${r.forkCount}</text>
-</svg>`;
-}
-
 async function main() {
   const user = process.env.GH_USER, token = process.env.GITHUB_TOKEN;
-  const wanted = (process.env.REPOS || "").split(",").map((x) => x.trim()).filter(Boolean);
   const query = `query($login:String!){user(login:$login){
     followers{totalCount} following{totalCount} createdAt
     organizations{totalCount}
@@ -204,7 +182,7 @@ async function main() {
       contributionCalendar{totalContributions weeks{contributionDays{date weekday contributionCount contributionLevel}}}}
     repositories(first:100, ownerAffiliations:OWNER, isFork:false, privacy:PUBLIC, orderBy:{field:PUSHED_AT,direction:DESC}){
       totalCount
-      nodes{name description stargazerCount forkCount primaryLanguage{name color}
+      nodes{stargazerCount
         languages(first:10, orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}}}}`;
   const r = await fetch("https://api.github.com/graphql", {
     method: "POST",
@@ -234,7 +212,6 @@ async function main() {
     orgs: u.organizations.totalCount, since: new Date(u.createdAt).getUTCFullYear(),
   };
   const si = streakInfo(cal.weeks);
-  const chosen = wanted.length ? wanted.map((n) => repos.find((x) => x.name === n)).filter(Boolean) : [];
 
   mkdirSync("dist", { recursive: true });
   for (const [suf, t] of [["", THEMES.light], ["-dark", THEMES.dark]]) {
@@ -243,13 +220,11 @@ async function main() {
     writeFileSync(`dist/langs${suf}.svg`, langsCard(langs, t));
     writeFileSync(`dist/impact${suf}.svg`, impactCard(impact, t));
     writeFileSync(`dist/streaks${suf}.svg`, streakCard(si, t));
-    chosen.forEach((rp, i) => writeFileSync(`dist/repo-${i + 1}${suf}.svg`, repoCard(rp, t)));
   }
   console.log(`OK: ${cal.totalContributions} contributions, ${langs.length} languages`);
 }
 
-if (process.argv[2] === "--teste") {
-  // fake data, preview only
+if (process.argv[2] === "--demo") {
   const weeks = []; const start = Date.UTC(2025, 10, 16);
   const lv = ["NONE", "FIRST_QUARTILE", "SECOND_QUARTILE", "THIRD_QUARTILE", "FOURTH_QUARTILE"];
   for (let w = 0; w < 53; w++) {
@@ -262,14 +237,13 @@ if (process.argv[2] === "--teste") {
     weeks.push({ contributionDays: days });
   }
   mkdirSync("dist", { recursive: true });
-  writeFileSync("dist/teste-dark.svg", render(weeks, 128, "devrafcks", THEMES.dark));
-  writeFileSync("dist/teste-light.svg", render(weeks, 128, "devrafcks", THEMES.light));
+  writeFileSync("dist/demo-contributions-dark.svg", render(weeks, 128, "devrafcks", THEMES.dark));
+  writeFileSync("dist/demo-contributions.svg", render(weeks, 128, "devrafcks", THEMES.light));
   const T = THEMES.dark;
-  writeFileSync("dist/t-stats.svg", statsCard({ year: 2026, commits: 42, prs: 3, issues: 1, repos: 3, stars: 2, followers: 15 }, T));
-  writeFileSync("dist/t-langs.svg", langsCard([{ name: "Python", color: "#3572A5", size: 50 }, { name: "JavaScript", color: "#f1e05a", size: 30 }, { name: "C++", color: "#f34b7d", size: 12 }, { name: "HTML", color: "#e34c26", size: 8 }, { name: "CSS", color: "#563d7c", size: 5 }], T));
-  writeFileSync("dist/t-impact.svg", impactCard({ merged: 9, reviews: 14, contributedTo: 6, following: 31, orgs: 2, since: 2021 }, T));
-  writeFileSync("dist/t-streaks.svg", streakCard(streakInfo(weeks), T));
-  writeFileSync("dist/t-repo.svg", repoCard({ name: "pixelmon-box", description: null, stargazerCount: 0, forkCount: 0, primaryLanguage: { name: "JavaScript", color: "#f1e05a" } }, T));
+  writeFileSync("dist/demo-stats.svg", statsCard({ year: 2026, commits: 42, prs: 3, issues: 1, repos: 3, stars: 2, followers: 15 }, T));
+  writeFileSync("dist/demo-langs.svg", langsCard([{ name: "Python", color: "#3572A5", size: 50 }, { name: "JavaScript", color: "#f1e05a", size: 30 }, { name: "C++", color: "#f34b7d", size: 12 }, { name: "HTML", color: "#e34c26", size: 8 }, { name: "CSS", color: "#563d7c", size: 5 }], T));
+  writeFileSync("dist/demo-impact.svg", impactCard({ merged: 9, reviews: 14, contributedTo: 6, following: 31, orgs: 2, since: 2021 }, T));
+  writeFileSync("dist/demo-streaks.svg", streakCard(streakInfo(weeks), T));
 } else {
   main().catch((e) => { console.error(e); process.exit(1); });
 }

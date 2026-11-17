@@ -1,4 +1,3 @@
-<!-- ============ $ ./profile.sh ============ -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=devrafcks&label=profile+views&color=FFBC00&style=for-the-badge" alt="Profile Views Counter" />
 </div>
@@ -11,7 +10,6 @@
   <img src="assets/terminal.svg" width="100%" alt="rafcks@github:~$ whoami — Rafael Blanco" />
 </p>
 
-<!-- ============ 01. about_me() ============ -->
 <img src="assets/h-about.svg" width="100%" alt="01. about_me()" />
 
 <img align="right" src="https://github.com/devrafcks/devrafcks/blob/main/luffy.gif?raw=true" width="220" alt="Luffy" />
@@ -35,66 +33,64 @@ Today I'm the developer behind the tech at **T2 Educação** (internal Hub, inte
 <br clear="right"/>
 <br/>
 
-<!-- ============ 02. stack() ============ -->
 <img src="assets/h-stack.svg" width="100%" alt="02. stack()" />
 
-<h3 align="center">Design & Prototyping</h3>
+### Design & Prototyping
 
-<p align="center">
+<p>
   <img src="assets/stack-design.svg" alt="Design & Prototyping" />
 </p>
 
-<h3 align="center">Front-End & Mobile</h3>
+### Front-End & Mobile
 
-<p align="center">
+<p>
   <img src="assets/stack-frontend.svg" alt="Front-End & Mobile" />
 </p>
 
-<h3 align="center">Back-End & Databases</h3>
+### Back-End & Databases
 
-<p align="center">
+<p>
   <img src="assets/stack-backend.svg" alt="Back-End & Databases" />
 </p>
 
-<h3 align="center">AI & Analytics</h3>
+### AI & Analytics
 
-<p align="center">
+<p>
   <img src="assets/stack-ai.svg" alt="AI & Analytics" />
 </p>
 
-<h3 align="center">Payment Gateways</h3>
+### Payment Gateways
 
-<p align="center">
+<p>
   <img src="assets/stack-payments.svg" alt="Payment Gateways" />
 </p>
 
-<h3 align="center">DevOps & Infrastructure</h3>
+### DevOps & Infrastructure
 
-<p align="center">
+<p>
   <img src="assets/stack-devops.svg" alt="DevOps & Infrastructure" />
 </p>
 
-<h3 align="center">Testing & Quality</h3>
+### Testing & Quality
 
-<p align="center">
+<p>
   <img src="assets/stack-testing.svg" alt="Testing & Quality" />
 </p>
 
-<h3 align="center">Platforms & Hosting</h3>
+### Platforms & Hosting
 
-<p align="center">
+<p>
   <img src="assets/stack-platforms.svg" alt="Platforms & Hosting" />
 </p>
 
-<h3 align="center">Other Skills</h3>
+### Other Skills
 
-<p align="center">
+<p>
   <img src="assets/stack-other.svg" alt="Other Skills" />
 </p>
 
 <br/>
 
-<!-- ============ 03. stats() ============ -->
 <img src="assets/h-stats.svg" width="100%" alt="03. stats()" />
 
 <p align="center">
@@ -108,7 +104,6 @@ Today I'm the developer behind the tech at **T2 Educação** (internal Hub, inte
 
 <br/>
 
-<!-- ============ 04. contributions() ============ -->
 <img src="assets/h-contributions.svg" width="100%" alt="04. contributions()" />
 
 <picture>
@@ -120,7 +115,6 @@ Today I'm the developer behind the tech at **T2 Educação** (internal Hub, inte
 <br/>
 <br/>
 
-<!-- ============ 05. contact() ============ -->
 <img src="assets/h-contact.svg" width="100%" alt="05. contact()" />
 
 <p align="center">
@@ -129,13 +123,12 @@ Today I'm the developer behind the tech at **T2 Educação** (internal Hub, inte
 </p>
 
 <p align="center">
-  <a href="https://rafaelblanco.vercel.app/"><img src="assets/link-portfolio.svg" width="524" alt="Meu portfólio" /></a>
+  <a href="https://rafaelblanco.vercel.app/"><img src="assets/link-portfolio.svg" width="524" alt="Portfolio (Meu portfólio)" /></a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-henrique-blanco-0455b12a6/"><img src="assets/link-linkedin.svg" width="131" height="131" alt="LinkedIn" /></a><a href="https://github.com/devrafcks"><img src="assets/link-github.svg" width="131" height="131" alt="GitHub" /></a><a href="https://devrafcks.github.io/Linkbio/"><img src="assets/link-linkbio.svg" width="131" height="131" alt="LinkBio" /></a><a href="mailto:rafcksps@gmail.com"><img src="assets/link-email.svg" width="131" height="131" alt="Email" /></a>
 </p>
 
-<!-- ============ exit ============ -->
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Thanks for visiting!" />
 </p>
