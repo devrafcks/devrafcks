@@ -18,7 +18,7 @@
 
 Full Stack developer from São Paulo, Brazil. I build SaaS and digital products end to end: requirements, architecture, database, payments, deploy and everything after it goes live. Accessibility and performance go in the first commit.
 
-Today I'm the developer behind the tech at **T2 Educação** (internal Hub, integrations, automations and infrastructure) and the creator of **SeeB**, an open-source accessibility widget that was born as my final project at ETEC. I hold a technical degree in **Internet Informatics** (ETEC) and I'm studying **Software Engineering** (Gran Faculdade) and **AI & Digital Automation** (UniFECAF).
+I'm the creator of **SeeB**, an open-source accessibility widget that was born as my final project at ETEC, and I build my own SaaS products, like **Carretel**. I hold a technical degree in **Internet Informatics** (ETEC) and I'm studying **Software Engineering** (Gran Faculdade) and **AI & Digital Automation** (UniFECAF).
 
 > *"People's dreams never end."* – Marshall D. Teach
 
@@ -101,6 +101,10 @@ Today I'm the developer behind the tech at **T2 Educação** (internal Hub, inte
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/impact-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/impact.svg" /><img width="49%" alt="Impact" src="https://raw.githubusercontent.com/devrafcks/devrafcks/output/impact-dark.svg" /></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/streaks-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/streaks.svg" /><img width="49%" alt="Streaks" src="https://raw.githubusercontent.com/devrafcks/devrafcks/output/streaks-dark.svg" /></picture>
 </p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/weekdays-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/weekdays.svg" /><img width="49%" alt="Contributions by weekday" src="https://raw.githubusercontent.com/devrafcks/devrafcks/output/weekdays-dark.svg" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/months-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/months.svg" /><img width="49%" alt="Contributions by month" src="https://raw.githubusercontent.com/devrafcks/devrafcks/output/months-dark.svg" /></picture>
+</p>
 
 <br/>
 
@@ -123,7 +127,7 @@ Today I'm the developer behind the tech at **T2 Educação** (internal Hub, inte
 </p>
 
 <p align="center">
-  <a href="https://rafaelblanco.vercel.app/"><img src="assets/link-portfolio.svg" width="524" alt="Portfolio (Meu portfólio)" /></a>
+  <a href="https://rafaelblanco.vercel.app/"><img src="assets/link-portfolio.svg" width="524" alt="My portfolio" /></a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-henrique-blanco-0455b12a6/"><img src="assets/link-linkedin.svg" width="131" height="131" alt="LinkedIn" /></a><a href="https://github.com/devrafcks"><img src="assets/link-github.svg" width="131" height="131" alt="GitHub" /></a><a href="https://devrafcks.github.io/Linkbio/"><img src="assets/link-linkbio.svg" width="131" height="131" alt="LinkBio" /></a><a href="mailto:rafcksps@gmail.com"><img src="assets/link-email.svg" width="131" height="131" alt="Email" /></a>

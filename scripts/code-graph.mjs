@@ -170,6 +170,42 @@ export function langsCard(langs, t) {
 <clipPath id="bc"><rect x="20" y="78" width="${BW}" height="10" rx="5"/></clipPath><g clip-path="url(#bc)">${bar}</g>${legend}</svg>`;
 }
 
+function barsCard(file, cmd, flag, items, t) {
+  const W = 440, H = 220, X0 = 20, CW = 400, BASE = 176, MAXH = 74;
+  const n = items.length, slot = CW / n, bw = Math.min(40, slot * 0.64);
+  const max = Math.max(1, ...items.map((i) => i.value));
+  const top = items.findIndex((i) => i.value === max);
+  let bars = "";
+  items.forEach((it, i) => {
+    const h = Math.max(3, (it.value / max) * MAXH), x = X0 + i * slot + (slot - bw) / 2, hot = i === top;
+    bars += `<g><rect class="b" x="${x.toFixed(1)}" y="${(BASE - h).toFixed(1)}" width="${bw.toFixed(1)}" height="${h.toFixed(1)}" rx="4" fill="${hot ? t.accent : t.levels[3]}" fill-opacity="${hot ? 1 : 0.55}" style="animation-delay:${(0.1 + i * 0.07).toFixed(2)}s"/>
+<text class="l" x="${(x + bw / 2).toFixed(1)}" y="${(BASE - h - 6).toFixed(1)}" text-anchor="middle" style="font-size:10.5px;font-weight:${hot ? 700 : 400};fill:${hot ? t.accent : t.muted};animation-delay:${(0.4 + i * 0.07).toFixed(2)}s">${it.value}</text>
+<text x="${(x + bw / 2).toFixed(1)}" y="${BASE + 18}" text-anchor="middle" style="font-size:10.5px;fill:${hot ? t.text : t.muted}">${esc2(it.label)}</text></g>`;
+  });
+  const css = `<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}.l{opacity:0;animation:l .4s ease-out forwards}@keyframes l{to{opacity:1}}.b{transform-box:fill-box;transform-origin:bottom;animation:g .7s cubic-bezier(.2,.8,.2,1) both}@keyframes g{from{transform:scaleY(0)}}</style>`;
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">${css}${frame(W, H, file, t)}
+<text x="20" y="64" class="l" style="font-size:13px"><tspan fill="${t.accent}">$</tspan><tspan fill="${t.text}"> ${cmd} </tspan><tspan fill="${t.orange}">${flag}</tspan></text>
+<rect x="${X0}" y="${BASE + 2}" width="${CW}" height="1" fill="${t.border}"/>${bars}</svg>`;
+}
+
+export function weekdaysCard(weeks, t) {
+  const sums = Array(7).fill(0);
+  weeks.forEach((w) => w.contributionDays.forEach((d) => { sums[d.weekday] += d.contributionCount; }));
+  const order = [1, 2, 3, 4, 5, 6, 0];
+  return barsCard("weekdays.sh", "git log", "--by-weekday", order.map((d) => ({ label: WEEKDAYS[d], value: sums[d] })), t);
+}
+
+export function monthsCard(weeks, t) {
+  const byMonth = new Map();
+  weeks.forEach((w) => w.contributionDays.forEach((d) => {
+    const k = d.date.slice(0, 7);
+    byMonth.set(k, (byMonth.get(k) || 0) + d.contributionCount);
+  }));
+  const items = [...byMonth.entries()].sort((a, b) => (a[0] < b[0] ? -1 : 1)).slice(-12)
+    .map(([k, v]) => ({ label: MESES[Number(k.slice(5)) - 1], value: v }));
+  return barsCard("months.sh", "git log", "--by-month", items, t);
+}
+
 async function main() {
   const user = process.env.GH_USER, token = process.env.GITHUB_TOKEN;
   const query = `query($login:String!){user(login:$login){
@@ -220,6 +256,8 @@ async function main() {
     writeFileSync(`dist/langs${suf}.svg`, langsCard(langs, t));
     writeFileSync(`dist/impact${suf}.svg`, impactCard(impact, t));
     writeFileSync(`dist/streaks${suf}.svg`, streakCard(si, t));
+    writeFileSync(`dist/weekdays${suf}.svg`, weekdaysCard(cal.weeks, t));
+    writeFileSync(`dist/months${suf}.svg`, monthsCard(cal.weeks, t));
   }
   console.log(`OK: ${cal.totalContributions} contributions, ${langs.length} languages`);
 }
@@ -244,6 +282,8 @@ if (process.argv[2] === "--demo") {
   writeFileSync("dist/demo-langs.svg", langsCard([{ name: "Python", color: "#3572A5", size: 50 }, { name: "JavaScript", color: "#f1e05a", size: 30 }, { name: "C++", color: "#f34b7d", size: 12 }, { name: "HTML", color: "#e34c26", size: 8 }, { name: "CSS", color: "#563d7c", size: 5 }], T));
   writeFileSync("dist/demo-impact.svg", impactCard({ merged: 9, reviews: 14, contributedTo: 6, following: 31, orgs: 2, since: 2021 }, T));
   writeFileSync("dist/demo-streaks.svg", streakCard(streakInfo(weeks), T));
+  writeFileSync("dist/demo-weekdays.svg", weekdaysCard(weeks, T));
+  writeFileSync("dist/demo-months.svg", monthsCard(weeks, T));
 } else {
   main().catch((e) => { console.error(e); process.exit(1); });
 }
