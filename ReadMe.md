@@ -1,143 +1,141 @@
+<!-- ============ $ ./profile.sh ============ -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=devrafcks&color=blue&style=for-the-badge" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=devrafcks&label=profile+views&color=FFBC00&style=for-the-badge" alt="Profile Views Counter" />
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/595f4cb8-0528-4276-a9f0-49ee67c98a1e" width="100%" />
+  <img src="assets/banner.svg" width="100%" alt="Rafael Blanco — crafting innovation with design and code" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&pause=120&color=3C7ED7&center=true&vCenter=true&width=455&lines=Hello,+world!;Hello,+Github!" alt="Typing SVG" />
+  <img src="assets/terminal.svg" width="100%" alt="rafcks@github:~$ whoami — Rafael Blanco" />
 </p>
 
-##  🎓 Software Engineer Student</strong> | <strong>AI, SaaS & Cloud</strong> | <strong>Fullstack Developer
+<!-- ============ 01. about_me() ============ -->
+<img src="assets/h-about.svg" width="100%" alt="01. about_me()" />
 
-<img align="right" src="https://github.com/devrafcks/devrafcks/blob/main/luffy.gif?raw=true" width="220">
+<img align="right" src="https://github.com/devrafcks/devrafcks/blob/main/luffy.gif?raw=true" width="220" alt="Luffy" />
 
-<p>
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=FFBC00&width=420&height=26&lines=%3E+Hello%2C+world!+I'm+Rafael+%F0%9F%91%8B;%3E+Full+Stack+Developer;%3E+SaaS%2C+Accessibility+%26+AI;%3E+git+commit+-m+%22always+evolving%22)](https://git.io/typing-svg)
 
-<p>
-  I hold a technical degree in <strong>Internet Informatics</strong> from ETEC and I am currently pursuing a Bachelor's in <strong>Software Engineer</strong>.
+Full Stack developer from São Paulo, Brazil. I build SaaS and digital products end to end: requirements, architecture, database, payments, deploy and everything after it goes live. Accessibility and performance go in the first commit.
+
+Today I'm the developer behind the tech at **T2 Educação** (internal Hub, integrations, automations and infrastructure) and the creator of **SeeB**, an open-source accessibility widget that was born as my final project at ETEC. I hold a technical degree in **Internet Informatics** (ETEC) and I'm studying **Software Engineering** (Gran Faculdade) and **AI & Digital Automation** (UniFECAF).
+
+> *"People's dreams never end."* – Marshall D. Teach
+
+```diff
++ Building SaaS and products end to end: Next.js, React Native, Node.js and PostgreSQL
++ Accessibility and performance from the first commit (SeeB)
++ AI agents and MCP in the daily workflow
++ Open to opportunities and collaborations
+- Bugs (working on it)
+```
+
+<br clear="right"/>
+<br/>
+
+<!-- ============ 02. stack() ============ -->
+<img src="assets/h-stack.svg" width="100%" alt="02. stack()" />
+
+<h3 align="center">Design & Prototyping</h3>
+
+<p align="center">
+  <img src="assets/stack-design.svg" alt="Design & Prototyping" />
 </p>
 
-<blockquote>
-  <p><em>“People's dreams never end.” – Marshall D. Teach</em></p>
-</blockquote>
+<h3 align="center">Front-End & Mobile</h3>
 
-<br clear="right">
-<br>
-
-## 💻 My Stack
-
-### Design & Prototyping
-
-<p>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-000000.svg?style=for-the-badge&logo=framer&logoColor=white" />
+<p align="center">
+  <img src="assets/stack-frontend.svg" alt="Front-End & Mobile" />
 </p>
 
-### Front-End & Mobile
+<h3 align="center">Back-End & Databases</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=expo&logoColor=white" />
+<p align="center">
+  <img src="assets/stack-backend.svg" alt="Back-End & Databases" />
 </p>
 
-### Back-End & Databases
+<h3 align="center">AI & Analytics</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-404D59.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
+<p align="center">
+  <img src="assets/stack-ai.svg" alt="AI & Analytics" />
 </p>
 
-### AI & Analytics
+<h3 align="center">Payment Gateways</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-412991.svg?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-111111.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostHog-000000.svg?style=for-the-badge&logo=posthog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB.svg?style=for-the-badge&logo=googletagmanager&logoColor=white" />
+<p align="center">
+  <img src="assets/stack-payments.svg" alt="Payment Gateways" />
 </p>
 
-### Payment Gateways
+<h3 align="center">DevOps & Infrastructure</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Mercado%20Pago-%23009EE3.svg?style=for-the-badge&logo=mercadolibre&logoColor=white" />
-  <img src="https://img.shields.io/badge/Asaas-%23003057.svg?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Abacate%20Pay-%234CAF50.svg?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/K8%20Pay-0052CC.svg?style=for-the-badge&logoColor=white" />
+<p align="center">
+  <img src="assets/stack-devops.svg" alt="DevOps & Infrastructure" />
 </p>
 
-### DevOps & Infrastructure
+<h3 align="center">Testing & Quality</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coolify-000000.svg?style=for-the-badge&logo=coolify&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  <img src="assets/stack-testing.svg" alt="Testing & Quality" />
 </p>
 
-### Testing & Quality
+<h3 align="center">Platforms & Hosting</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
+<p align="center">
+  <img src="assets/stack-platforms.svg" alt="Platforms & Hosting" />
 </p>
 
-### Platforms & Hosting
+<h3 align="center">Other Skills</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Coolify-000000.svg?style=for-the-badge&logo=coolify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoDaddy-1BDBAD.svg?style=for-the-badge&logo=godaddy&logoColor=black" />
-  <img src="https://img.shields.io/badge/HostGator-FFD200.svg?style=for-the-badge&logo=hostgator&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <img src="assets/stack-other.svg" alt="Other Skills" />
 </p>
 
-### Other Skills
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+<!-- ============ 03. stats() ============ -->
+<img src="assets/h-stats.svg" width="100%" alt="03. stats()" />
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/stats-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/stats.svg" /><img width="49%" alt="Stats" src="https://raw.githubusercontent.com/devrafcks/devrafcks/output/stats-dark.svg" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/langs-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/langs.svg" /><img width="49%" alt="Languages" src="https://raw.githubusercontent.com/devrafcks/devrafcks/output/langs-dark.svg" /></picture>
+</p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/impact-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/impact.svg" /><img width="49%" alt="Impact" src="https://raw.githubusercontent.com/devrafcks/devrafcks/output/impact-dark.svg" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/streaks-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/streaks.svg" /><img width="49%" alt="Streaks" src="https://raw.githubusercontent.com/devrafcks/devrafcks/output/streaks-dark.svg" /></picture>
 </p>
 
-## Contact
+<br/>
 
-<a href="https://www.linkedin.com/in/rafael-henrique-blanco-0455b12a6/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
-<a href="mailto:rafcksps@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://devrafcks.github.io/Linkbio/">
-  <img src="https://img.shields.io/badge/LinkBio-%2368A44C.svg?logo=spotify&logoColor=white&style=for-the-badge" />
-</a>
+<!-- ============ 04. contributions() ============ -->
+<img src="assets/h-contributions.svg" width="100%" alt="04. contributions()" />
 
-<a href="https://rafaelblanco.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/code-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devrafcks/devrafcks/output/code-contribution-graph.svg" />
+  <img width="100%" alt="Contribution log: one year of shipping" src="https://raw.githubusercontent.com/devrafcks/devrafcks/output/code-contribution-graph-dark.svg" />
+</picture>
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3C7ED7&height=150&section=footer" width="100%"/>
-</div>
+<br/>
+<br/>
+
+<!-- ============ 05. contact() ============ -->
+<img src="assets/h-contact.svg" width="100%" alt="05. contact()" />
+
+<p align="center">
+  Got a product to ship or a system that needs someone end to end?<br/>
+  Let's build something.
+</p>
+
+<p align="center">
+  <a href="https://rafaelblanco.vercel.app/"><img src="assets/link-portfolio.svg" width="524" alt="Meu portfólio" /></a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-henrique-blanco-0455b12a6/"><img src="assets/link-linkedin.svg" width="131" height="131" alt="LinkedIn" /></a><a href="https://github.com/devrafcks"><img src="assets/link-github.svg" width="131" height="131" alt="GitHub" /></a><a href="https://devrafcks.github.io/Linkbio/"><img src="assets/link-linkbio.svg" width="131" height="131" alt="LinkBio" /></a><a href="mailto:rafcksps@gmail.com"><img src="assets/link-email.svg" width="131" height="131" alt="Email" /></a>
+</p>
+
+<!-- ============ exit ============ -->
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Thanks for visiting!" />
+</p>
