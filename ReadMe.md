@@ -31,6 +31,10 @@ I'm the creator of **SeeB**, an open-source accessibility widget that was born a
 ```
 
 <br clear="right"/>
+
+<p align="center">
+  <img src="assets/flow.svg" alt="problem, spec, architecture, build, ship, iterate" />
+</p>
 <br/>
 
 <img src="assets/h-stack.svg" width="100%" alt="02. stack()" />
@@ -120,6 +124,10 @@ I'm the creator of **SeeB**, an open-source accessibility widget that was born a
 <br/>
 
 <img src="assets/h-contact.svg" width="100%" alt="05. contact()" />
+
+<p align="center">
+  <img src="assets/status.svg" alt="open to new projects" />
+</p>
 
 <p align="center">
   Got a product to ship or a system that needs someone end to end?<br/>

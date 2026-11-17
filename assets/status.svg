@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="34" viewBox="0 0 330 34">
+<style>text{font-family:ui-monospace,'JetBrains Mono',Consolas,'Courier New',monospace}
+.p{transform-box:fill-box;transform-origin:center;animation:pl 2s ease-out infinite}
+@keyframes pl{0%{opacity:.8;transform:scale(.5)}100%{opacity:0;transform:scale(2.6)}}
+.cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}</style>
+<circle class="p" cx="17" cy="17" r="6" fill="#ffbc00"/>
+<circle cx="17" cy="17" r="5" fill="#ffbc00"/>
+<text x="34" y="22" font-size="14"><tspan fill="#fff6e0">open to new projects</tspan><tspan fill="#a8978a">  ·  São Paulo, BR</tspan><tspan fill="#ffbc00" class="cur">_</tspan></text>
+</svg>
