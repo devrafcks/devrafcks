@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="220" viewBox="0 0 440 220"><style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
+.l{opacity:0;animation:l .4s ease-out forwards}@keyframes l{to{opacity:1}}</style><rect x="1" y="1" width="438" height="218" rx="12" fill="#1e1416" stroke="#4a3a3c" stroke-width="2"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 H427 a12 12 0 0 1 12 12 V38 H1Z" fill="#2b1e20"/>
+<rect x="1" y="38" width="438" height="1" fill="#4a3a3c"/>
+<circle cx="20" cy="20" r="5.5" fill="#ff5f57"/><circle cx="37" cy="20" r="5.5" fill="#febc2e"/><circle cx="54" cy="20" r="5.5" fill="#28c840"/>
+<text x="220" y="25" text-anchor="middle" style="font-size:12.5px;fill:#a8978a">languages.json</text>
+<text x="20" y="62" class="l" style="font-size:13px"><tspan fill="#ffbc00">$</tspan><tspan fill="#fff6e0"> linguist </tspan><tspan fill="#ffd166">--top 6</tspan></text>
+<clipPath id="bc"><rect x="20" y="78" width="400" height="10" rx="5"/></clipPath><g clip-path="url(#bc)"><rect x="20.0" y="78" width="172.0" height="10" fill="#3178c6"/><rect x="192.0" y="78" width="105.2" height="10" fill="#00A2FF"/><rect x="297.2" y="78" width="45.8" height="10" fill="#e34c26"/><rect x="343.0" y="78" width="38.7" height="10" fill="#f1e05a"/><rect x="381.7" y="78" width="36.9" height="10" fill="#663399"/><rect x="418.5" y="78" width="3.0" height="10" fill="#a91e50"/></g><g class="l" style="animation-delay:0.15s"><circle cx="25" cy="118" r="5" fill="#3178c6"/>
+<text x="38" y="122" style="font-size:12.5px;fill:#fff6e0">TypeScript</text>
+<text x="210" y="122" text-anchor="end" style="font-size:12.5px;fill:#a8978a">43.0%</text></g><g class="l" style="animation-delay:0.25s"><circle cx="235" cy="118" r="5" fill="#00A2FF"/>
+<text x="248" y="122" style="font-size:12.5px;fill:#fff6e0">Luau</text>
+<text x="420" y="122" text-anchor="end" style="font-size:12.5px;fill:#a8978a">26.3%</text></g><g class="l" style="animation-delay:0.35s"><circle cx="25" cy="148" r="5" fill="#e34c26"/>
+<text x="38" y="152" style="font-size:12.5px;fill:#fff6e0">HTML</text>
+<text x="210" y="152" text-anchor="end" style="font-size:12.5px;fill:#a8978a">11.4%</text></g><g class="l" style="animation-delay:0.45000000000000007s"><circle cx="235" cy="148" r="5" fill="#f1e05a"/>
+<text x="248" y="152" style="font-size:12.5px;fill:#fff6e0">JavaScript</text>
+<text x="420" y="152" text-anchor="end" style="font-size:12.5px;fill:#a8978a">9.7%</text></g><g class="l" style="animation-delay:0.55s"><circle cx="25" cy="178" r="5" fill="#663399"/>
+<text x="38" y="182" style="font-size:12.5px;fill:#fff6e0">CSS</text>
+<text x="210" y="182" text-anchor="end" style="font-size:12.5px;fill:#a8978a">9.2%</text></g><g class="l" style="animation-delay:0.65s"><circle cx="235" cy="178" r="5" fill="#a91e50"/>
+<text x="248" y="182" style="font-size:12.5px;fill:#fff6e0">EJS</text>
+<text x="420" y="182" text-anchor="end" style="font-size:12.5px;fill:#a8978a">0.4%</text></g></svg>
