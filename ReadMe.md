@@ -22,7 +22,7 @@ Right now I'm Cofounder and CTO at [**Coach Up**](https://www.linkedin.com/compa
 
 I'm the creator of **SeeB**, an open-source accessibility widget that was born as my final project at ETEC, and I build my own SaaS products, like **Carretel**.
 
-I hold a technical degree in **Internet Informatics** from ETEC Parque Belém. I'm studying **Software Engineering** at Gran Faculdade and **Artificial Intelligence and Digital Automation** at UniFECAF with Faculdade de Tecnologia Rocketseat. I'm also in a university extension in **Software Architecture with Artificial Intelligence**, from Full Stack Club in partnership with Anhanguera (November 2026 to November 2027, in progress).
+I hold a technical degree in **Internet Informatics** from ETEC Parque Belém. I'm studying **Software Engineering** at Gran Faculdade. I'm also studying **Artificial Intelligence and Digital Automation** at UniFECAF with Faculdade de Tecnologia Rocketseat. I'm in a university extension in **Software Architecture with Artificial Intelligence**, from Full Stack Club in partnership with Anhanguera. It runs from November 2026 to November 2027, and it's in progress.
 
 > *"People's dreams never end."* – Marshall D. Teach
 
