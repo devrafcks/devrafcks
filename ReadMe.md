@@ -18,11 +18,16 @@
 
 Full Stack developer from São Paulo, Brazil. I build SaaS and digital products end to end: requirements, architecture, database, payments, deploy and everything after it goes live. Accessibility and performance go in the first commit.
 
-I'm the creator of **SeeB**, an open-source accessibility widget that was born as my final project at ETEC, and I build my own SaaS products, like **Carretel**. I hold a technical degree in **Internet Informatics** (ETEC) and I'm studying **Software Engineering** (Gran Faculdade) and **AI & Digital Automation** (UniFECAF).
+Right now I'm Cofounder and CTO at [**Coach Up**](https://www.linkedin.com/company/orgcoachup), since October 2026. Coach Up is a white label SaaS for gyms and personal trainers. Each gym or personal trainer offers students an app with their own brand. The app installs from the browser (PWA). It covers student management, workout building and prescription, set and load logging, and performance indicators. The stack is Next.js, Node.js, TypeScript, Supabase and Cloudflare. I take care of the architecture, the infrastructure and the product development.
+
+I'm the creator of **SeeB**, an open-source accessibility widget that was born as my final project at ETEC, and I build my own SaaS products, like **Carretel**.
+
+I hold a technical degree in **Internet Informatics** from ETEC Parque Belém. I'm studying **Software Engineering** at Gran Faculdade and **Artificial Intelligence and Digital Automation** at UniFECAF with Faculdade de Tecnologia Rocketseat. I'm also in a university extension in **Software Architecture with Artificial Intelligence**, from Full Stack Club in partnership with Anhanguera (November 2026 to November 2027, in progress).
 
 > *"People's dreams never end."* – Marshall D. Teach
 
 ```diff
++ Cofounder and CTO at Coach Up, a white label SaaS for gyms and personal trainers
 + Building SaaS and products end to end: Next.js, React Native, Node.js and PostgreSQL
 + Accessibility and performance from the first commit (SeeB)
 + AI agents and MCP in the daily workflow
